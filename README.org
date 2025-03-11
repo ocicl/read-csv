@@ -2,9 +2,8 @@
 
 read-csv is a lisp library for reading CSV (comma-separated value) files like the ones exported from Excel.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/WarrenWilkinson/read-csv   |
-| commit  | b2650d8  |
-| systems | read-csv |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/WarrenWilkinson/read-csv |
+| commit  | b183340                                         |
+| systems | read-csv                                        |
+|---------+-------------------------------------------------|
